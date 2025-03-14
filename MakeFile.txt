@@ -1,8 +1,0 @@
-all:
-    g++ task1/main.cpp -o task1/task1
-    g++ task2/main.cpp -o task2/task2
-    g++ task3/main.cpp -o task3/task3
-    g++ task4/main.cpp -o task4/task4
-
-clean:
-    rm -f task1/task1 task2/task2 task3/task3 task4/task4
